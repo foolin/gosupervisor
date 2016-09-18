@@ -1,0 +1,4 @@
+package: github.com/foolin/gosupervisor
+import:
+- package: github.com/foolin/gomap
+- package: github.com/kolo/xmlrpc
